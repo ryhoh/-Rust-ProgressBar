@@ -1,0 +1,6 @@
+[package]
+name = "progressbar"
+version = "0.1.0"
+authors = ["ryhoh <axis38akasira@gmail.com>"]
+
+[dependencies]
